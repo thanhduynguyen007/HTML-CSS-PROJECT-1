@@ -4,6 +4,9 @@
     box-shadow: 0 1px 3px 0 rgba(0, 0, 0,0.1);
     background: var(--bg-1);
     padding: 0 40px;
+    position: sticky ;
+    top: 0;
+    z-index: 1;
 }
 .header .inner-wrap{
     display: flex;
